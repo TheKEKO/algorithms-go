@@ -1,3 +1,4 @@
+// Convert a String to a Number!
 
 // Solution 1
 import "strconv"
