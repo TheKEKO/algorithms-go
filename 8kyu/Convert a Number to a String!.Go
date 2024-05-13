@@ -1,3 +1,5 @@
+
+// Solution 1
 import "strconv"
 
 func StringToNumber(str string) int {
