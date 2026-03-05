@@ -1,0 +1,13 @@
+# GoLand / IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# build
+/bin/
+/build/
+
+# env
+.env
