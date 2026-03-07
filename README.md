@@ -30,6 +30,7 @@ This repository is used to practice problem-solving and prepare for technical in
 |---------|-------|------|
 | Convert Number to String | Strings | [Solution](./strings/convert-number-to-string) |
 | Third Angle of a Triangle | Math | [Solution](./math/third-angle-of-triangle) |
+| Do I get a bonus? | Strings | [Solution](./strings/do-I-get-a-bonus) |
 
 ---
 [![codewars](https://www.codewars.com/users/The_KEKO/badges/large)](https://www.codewars.com/users/The_KEKO)  
