@@ -2,5 +2,12 @@
 package contamination__1_string
 
 func Contamination(text, char string) string {
-	return ""
+	if text == "" || char == "" {
+		return ""
+	}
+	result := ""
+	for i := 1; i <= len(text); i++ {
+		result += char
+	}
+	return result
 }
