@@ -16,14 +16,14 @@ This repository is used to practice problem-solving and prepare for technical in
 ## Progress
 | Topic | Solved |
 |-------|--------|
-| Arrays | 1 |
-| Strings | 4 |
-| Math | 2 |
-| HashMaps | 0 |
-| Binary Search | 0 |
-| Two Pointers | 0 |
-| Trees | 0 |
-| Dynamic Programming | 0 |
+| Arrays | 1      |
+| Strings | 5      |
+| Math | 2      |
+| HashMaps | 0      |
+| Binary Search | 0      |
+| Two Pointers | 0      |
+| Trees | 0      |
+| Dynamic Programming | 0      |
 
 ## Solved Problems
 | Problem | Topic | Link |
