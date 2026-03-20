@@ -2,5 +2,9 @@
 package invert_values
 
 func Invert(arr []int) []int {
-	return nil
+	res := make([]int, len(arr))
+	for i, v := range arr {
+		res[i] = -v
+	}
+	return res
 }
