@@ -4,5 +4,11 @@
 package сounting_sheep
 
 func CountSheeps(numbers []bool) int {
-	return 0 // your code here
+	res := 0
+	for _, v := range numbers {
+		if v {
+			res++
+		}
+	}
+	return res
 }
