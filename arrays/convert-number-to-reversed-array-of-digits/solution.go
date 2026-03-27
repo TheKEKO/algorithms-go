@@ -4,6 +4,14 @@
 package convert_number_to_reversed_array_of_digits
 
 func Digitize(n int) []int {
-	// your code here
-	return nil
+	if n == 0 {
+		return []int{0}
+	}
+
+	var res []int
+	for n > 0 {
+		res = append(res, n%10)
+		n /= 10
+	}
+	return res
 }
