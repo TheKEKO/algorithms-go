@@ -3,5 +3,8 @@
 package convert_boolean_values_to_strings_yes_or_no
 
 func BoolToWord(word bool) string {
-
+	if word {
+		return "Yes"
+	}
+	return "No"
 }
