@@ -3,6 +3,9 @@
 package count_the_monkeys
 
 func monkeyCount(n int) []int {
-	// Your code here, happy coding!
-
+	res := make([]int, 0, n)
+	for i := 1; i <= n; i++ {
+		res = append(res, i)
+	}
+	return res
 }
