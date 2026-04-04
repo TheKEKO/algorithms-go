@@ -2,6 +2,18 @@
 // Sum Mixed Array
 package sum_mixed_array
 
+import "strconv"
+
 func SumMix(arr []any) int {
-	return 0
+	sum := 0
+	for _, v := range arr {
+		switch val := v.(type) {
+		case int:
+			sum += val
+		case string:
+			num, _ := strconv.Atoi(val)
+			sum += num
+		}
+	}
+	return sum
 }
