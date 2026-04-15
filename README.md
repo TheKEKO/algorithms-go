@@ -16,9 +16,9 @@ This repository is used to practice problem-solving and prepare for technical in
 ## Progress
 | Topic | Solved |
 |-------|--------|
-| Arrays | 12      |
-| Strings | 9      |
-| Math | 13      |
+| Arrays | 12     |
+| Strings | 10     |
+| Math | 14     |
 | HashMaps | 0      |
 | Binary Search | 0      |
 | Two Pointers | 0      |
